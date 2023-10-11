@@ -1,3 +1,7 @@
-# github.com/nuvi/unicycle v0.4.4
+# github.com/nuvi/unicycle v0.6.3
 ## explicit; go 1.20
-github.com/nuvi/unicycle
+github.com/nuvi/unicycle/channels
+github.com/nuvi/unicycle/defaults
+github.com/nuvi/unicycle/multithread
+github.com/nuvi/unicycle/promises
+github.com/nuvi/unicycle/slices
